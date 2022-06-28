@@ -1,4 +1,4 @@
-# Cryptocurrency Tutorial (ERC20)
+# Cryptocurrency (ERC20)
 
 This tutorial is part of my studies about web3 and blockchain development
 
